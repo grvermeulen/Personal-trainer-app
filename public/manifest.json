@@ -1,0 +1,10 @@
+{
+  "name": "PulseCoach",
+  "short_name": "PulseCoach",
+  "description": "AI Personal Trainer for mixed-sport athletes",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#6366f1",
+  "icons": []
+}
